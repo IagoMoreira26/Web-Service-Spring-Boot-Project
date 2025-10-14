@@ -3,7 +3,9 @@
 Projeto de um backend feito com as seguintes tecnologias:
 
 **Backend:** Java e Springboot
+
 **SGBD:** H2
+
 **ORM:** Hibernate
 
 [![My Skills](https://skillicons.dev/icons?i=java,spring,hibernate)](https://skillicons.dev)
@@ -11,6 +13,10 @@ Projeto de um backend feito com as seguintes tecnologias:
 ## Descrição Geral do Sistema
 
 O sistema tem como objetivo gerenciar **usuários, produtos, categorias, pedidos e pagamentos** em uma plataforma de comércio eletrônico. Ele permite que clientes façam pedidos de produtos, acompanhem o status dos pedidos e efetuem pagamentos.
+
+## Documentação da API
+
+Execute o projeto Spring e entre no link: http://localhost:8080/swagger-ui/index.html#/
 
 ## Modelo de Domínio
 
@@ -147,5 +153,3 @@ Camada responsável pelo **acesso direto ao banco de dados**. Aqui são implemen
 ### Entities
 
 As **entidades** representam os **objetos de domínio** do sistema, geralmente correspondem às tabelas do banco de dados. São modelos que definem os atributos e relacionamentos dos dados que o sistema manipula.
-
-depois eu termino kkk
