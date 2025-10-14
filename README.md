@@ -1,6 +1,6 @@
 # Web-Service-Spring-Boot-Project
 
-Projeto de um backend feito com as seguintes tecnologias:
+Projeto feito com as seguintes tecnologias:
 
 **Backend:** Java e Springboot
 
